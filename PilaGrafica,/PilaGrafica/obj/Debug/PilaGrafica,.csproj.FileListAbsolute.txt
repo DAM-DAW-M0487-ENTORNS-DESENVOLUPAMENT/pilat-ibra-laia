@@ -1,0 +1,9 @@
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\bin\Debug\PilaGrafica,.exe.config
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\bin\Debug\PilaGrafica,.exe
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\bin\Debug\PilaGrafica,.pdb
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\obj\Debug\PilaGrafica,.csproj.AssemblyReference.cache
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\obj\Debug\PilaGrafica_.Properties.Resources.resources
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\obj\Debug\PilaGrafica,.csproj.GenerateResource.cache
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\obj\Debug\PilaGrafica,.csproj.CoreCompileInputs.cache
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\obj\Debug\PilaGrafica,.exe
+C:\Users\lsanc\pilat-ibra-laia\PilaGrafica,\PilaGrafica\obj\Debug\PilaGrafica,.pdb

@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsanc\\pilat-ibra-laia\\PilaGrafica,\\PilaGrafica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6AE9D-74D9-4D57-9A5D-A10A41079122}|PilaGrafica,.csproj|c:\\users\\lsanc\\pilat-ibra-laia\\pilagrafica,\\pilagrafica\\compilador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D6AE9D-74D9-4D57-9A5D-A10A41079122}|PilaGrafica,.csproj|solutionrelative:compilador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compilador.cs",
+              "DocumentMoniker": "C:\\Users\\lsanc\\pilat-ibra-laia\\PilaGrafica,\\PilaGrafica\\Compilador.cs",
+              "RelativeDocumentMoniker": "Compilador.cs",
+              "ToolTip": "C:\\Users\\lsanc\\pilat-ibra-laia\\PilaGrafica,\\PilaGrafica\\Compilador.cs*",
+              "RelativeToolTip": "Compilador.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:44:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
